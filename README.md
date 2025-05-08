@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#060270&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#170AC1FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1625F7&width=435&lines=My+name+is+Karolina+Silva;I'm+34+years+old;I'm+from+Brazil;student+Data+Scientist)](https://git.io/typing-svg)
 
